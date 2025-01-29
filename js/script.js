@@ -32,3 +32,7 @@ for(var i = 0; i < 20; i++){
 }
 
 tl.seek(50);
+
+function log_console(text) {
+  console.log(text);
+}
